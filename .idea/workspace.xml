@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03ef7c35-1580-4484-a5b6-677f9b786109" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/groovy/org/example/Main.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/groovy/org/example/Main.groovy" afterDir="false" />
+    <list default="true" id="03ef7c35-1580-4484-a5b6-677f9b786109" name="Changes" comment="Выполнение ДЗ 1">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,10 +62,31 @@
     "assignee": "SmirnovSA"
   }
 }]]></component>
+  <component name="GitHubPullRequestState"><![CDATA[{
+  "prStates": [
+    {
+      "id": {
+        "id": "PR_kwDOMi8H9s54PFbf",
+        "number": 1
+      },
+      "lastSeen": 1723556687519
+    }
+  ]
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "git@github.com:/SmirnovSA/Homeworks_groovy.git",
     "accountId": "33d6e247-06c8-4b20-a153-4c0978124f14"
+  },
+  "recentNewPullRequestHead": {
+    "server": {
+      "useHttp": false,
+      "host": "github.com",
+      "port": null,
+      "suffix": null
+    },
+    "owner": "SmirnovSA",
+    "repository": "Homeworks_groovy"
   }
 }]]></component>
   <component name="ProjectColorInfo">{
@@ -91,8 +108,9 @@
     "Gradle.Load Gradle Dependencies.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "homework-1",
+    "git-widget-placeholder": "#1 on homework-1",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/s.smirnov/IdeaProjects/Homeworks_groovy",
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.40574712",
@@ -235,6 +253,15 @@
       <option name="presentableId" value="Default" />
       <updated>1723532449684</updated>
     </task>
+    <task id="LOCAL-00001" summary="Выполнение ДЗ 1">
+      <option name="closed" value="true" />
+      <created>1723556611010</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723556611010</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -247,5 +274,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Выполнение ДЗ 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Выполнение ДЗ 1" />
   </component>
 </project>
