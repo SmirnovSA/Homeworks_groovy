@@ -43,7 +43,6 @@ class ATM {
                     .sum() as BigDecimal
             def outCurrency = new Banknote(availableSum,currency).toString()
             println "Не удалось выдать запрошенную сумму. Баланс счета: $outCurrency."
-            return
         } else {
             withdrawal.each {nominal,quantity ->
                 banknotes[nominal] -= quantity
@@ -60,7 +59,7 @@ class ATM {
     boolean isAmountAvailable(BigDecimal amount, String currency) {
         BigDecimal totalAvailable = banknotes.findAll { it.key.currency == currency }
                 .collect { it.key.nominal * it.value }
-                .sum()
+                .sum() as BigDecimal
         return amount <= totalAvailable
     }
 
