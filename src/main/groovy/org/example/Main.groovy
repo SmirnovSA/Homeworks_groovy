@@ -1,8 +1,7 @@
 package org.example
-
-import com.google.common.collect.Count
+import com.google.common.collect.Lists
 
 static void main(String[] args) {
     println "Hello world!"
-    Count.collect()
+    Lists.newArrayList('one','two','three')
 }
