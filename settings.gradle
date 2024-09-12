@@ -1,3 +1,4 @@
 rootProject.name = 'Homeworks_groovy'
 include 'hw01-gradle'
+include 'hw02-gradle'
 

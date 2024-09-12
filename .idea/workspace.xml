@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03ef7c35-1580-4484-a5b6-677f9b786109" name="Changes" comment="Выполнение ДЗ 1">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="03ef7c35-1580-4484-a5b6-677f9b786109" name="Changes" comment="Добавил README">
+      <change afterPath="$PROJECT_DIR$/src/main/groovy/org/example/ATM.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/groovy/org/example/Banknote.groovy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,39 +60,39 @@
     </excluded-from-favorite>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "SmirnovSA"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;SmirnovSA&quot;
   }
-}]]></component>
-  <component name="GitHubPullRequestState"><![CDATA[{
-  "prStates": [
+}</component>
+  <component name="GitHubPullRequestState">{
+  &quot;prStates&quot;: [
     {
-      "id": {
-        "id": "PR_kwDOMi8H9s54PFbf",
-        "number": 1
+      &quot;id&quot;: {
+        &quot;id&quot;: &quot;PR_kwDOMi8H9s54PFbf&quot;,
+        &quot;number&quot;: 1
       },
-      "lastSeen": 1723556687519
+      &quot;lastSeen&quot;: 1723556982592
     }
   ]
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:/SmirnovSA/Homeworks_groovy.git",
-    "accountId": "33d6e247-06c8-4b20-a153-4c0978124f14"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:/SmirnovSA/Homeworks_groovy.git&quot;,
+    &quot;accountId&quot;: &quot;33d6e247-06c8-4b20-a153-4c0978124f14&quot;
   },
-  "recentNewPullRequestHead": {
-    "server": {
-      "useHttp": false,
-      "host": "github.com",
-      "port": null,
-      "suffix": null
+  &quot;recentNewPullRequestHead&quot;: {
+    &quot;server&quot;: {
+      &quot;useHttp&quot;: false,
+      &quot;host&quot;: &quot;github.com&quot;,
+      &quot;port&quot;: null,
+      &quot;suffix&quot;: null
     },
-    "owner": "SmirnovSA",
-    "repository": "Homeworks_groovy"
+    &quot;owner&quot;: &quot;SmirnovSA&quot;,
+    &quot;repository&quot;: &quot;Homeworks_groovy&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -98,39 +102,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle.Homeworks_groovy [build].executor": "Run",
-    "Gradle.Homeworks_groovy [dependencies].executor": "Run",
-    "Gradle.Homeworks_groovy:hw01-gradle [:hw01-gradle:org.example.Main.main()].executor": "Run",
-    "Gradle.Homeworks_groovy:hw01-gradle [build].executor": "Run",
-    "Gradle.Homeworks_groovy:hw01-gradle [clean].executor": "Run",
-    "Gradle.Load Gradle Dependencies.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "#1 on homework-1",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/s.smirnov/IdeaProjects/Homeworks_groovy",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.40574712",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.Build Homeworks_groovy.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Homeworks_groovy [build].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Homeworks_groovy [dependencies].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Homeworks_groovy:hw01-gradle [:hw01-gradle:org.example.Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Homeworks_groovy:hw01-gradle [build].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Homeworks_groovy:hw01-gradle [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Load Gradle Dependencies.executor&quot;: &quot;Run&quot;,
+    &quot;Groovy.scratch_3.executor&quot;: &quot;Run&quot;,
+    &quot;Groovy.scratch_4 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Groovy.scratch_4.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;homework-2&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/s.smirnov/IdeaProjects/Homeworks_groovy&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.40574712&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;Groovy&quot;
+    ]
   }
-}]]></component>
-  <component name="RunManager" selected="Gradle.Homeworks_groovy [dependencies]">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
-      <module name="Homeworks_groovy.hw01-gradle.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\s.smirnov\IdeaProjects\Homeworks_groovy" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Groovy.scratch_3">
     <configuration name="Homeworks_groovy [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -175,49 +180,35 @@
       <RunAsTest>false</RunAsTest>
       <method v="2" />
     </configuration>
-    <configuration name="Homeworks_groovy:hw01-gradle [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/hw01-gradle" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="build" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <RunAsTest>false</RunAsTest>
-      <method v="2" />
+    <configuration name="scratch_3" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+      <setting name="path" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3.groovy" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$APPLICATION_CONFIG_DIR$/scratches" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="Homeworks_groovy:hw01-gradle [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/hw01-gradle" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="clean" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <RunAsTest>false</RunAsTest>
-      <method v="2" />
+    <configuration name="scratch_4 (1)" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+      <setting name="path" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4.groovy" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$APPLICATION_CONFIG_DIR$/scratches" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="scratch_4" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+      <setting name="path" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4.groovy" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$APPLICATION_CONFIG_DIR$/scratches" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="ShConfigurationType">
       <option name="SCRIPT_TEXT" value="" />
@@ -236,11 +227,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Groovy.scratch_3" />
+        <item itemvalue="Groovy.scratch_4 (1)" />
+        <item itemvalue="Groovy.scratch_4" />
         <item itemvalue="Gradle.Homeworks_groovy [dependencies]" />
         <item itemvalue="Gradle.Homeworks_groovy [build]" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Gradle.Homeworks_groovy:hw01-gradle [build]" />
-        <item itemvalue="Gradle.Homeworks_groovy:hw01-gradle [clean]" />
       </list>
     </recent_temporary>
   </component>
@@ -261,7 +252,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723556611010</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Добавил README">
+      <option name="closed" value="true" />
+      <created>1723556967038</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1723556967038</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -277,6 +276,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Выполнение ДЗ 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Выполнение ДЗ 1" />
+    <MESSAGE value="Добавил README" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавил README" />
   </component>
 </project>
