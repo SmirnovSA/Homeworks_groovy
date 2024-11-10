@@ -10,6 +10,8 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/hw01-gradle" />
+            <option value="$PROJECT_DIR$/hw02-gradle" />
+            <option value="$PROJECT_DIR$/hw04-json-gradle" />
           </set>
         </option>
       </GradleProjectSettings>
